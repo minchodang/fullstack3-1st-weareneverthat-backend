@@ -88,6 +88,4 @@
 ## Contact US
 
 - 강민수 minsu910725@gmail.com
-- 구민기 rnalsrl93@gmail.com
-- 민하늘 onlynforever@gmail.com
-- 정태영 dev.taeyeong@gmail.com
+
