@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/90169703/148523187-60bd1fac-668c-46fb-8c52-f067c6db0338.png" width="30px" height="30px"/> 강민수 &nbsp; [기술블로그](https://velog.io/@minsu8834), [깃허브 주소](https://github.com/minchodang)
 
+## 개발 후기
+[후기 보러 가기](https://velog.io/@minsu8834/%EB%82%98%EB%8A%94-%EC%97%AC%ED%83%9C%EA%BB%8F-%ED%98%91%EC%97%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EA%B2%83%EC%9D%84-%EC%9E%98-%EB%AA%B0%EB%9E%90%EC%97%88%EB%8B%A4....-%EC%9C%84%EC%96%BC%EB%84%A4%EB%B2%84%EB%8C%93-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D-1%EB%B6%80)
 
 <br>
 
